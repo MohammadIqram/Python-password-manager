@@ -1,0 +1,9 @@
+
+# dependencies
+/venv
+
+# inspector file
+/.idea/inspectionProfiles
+
+# file
+/.idea/inspectionProfiles/workspace.xml
